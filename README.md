@@ -1,5 +1,7 @@
 # DevOps Documentation Hub
 
+<img src="assets/images/logo.png" alt="Titanium Computing Logo" width="300"/>
+
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/yourusername/devops-docs)
 [![Documentation](https://img.shields.io/badge/docs-up%20to%20date-blue.svg)](https://yourusername.github.io/devops-docs)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
