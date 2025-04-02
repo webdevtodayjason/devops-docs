@@ -10,61 +10,84 @@
 
 ## 📚 Topics
 
-### 🐳 Containerization
+<div class="topic-grid">
+  <div class="topic-card">
+    <h3>🐳 Containerization</h3>
+    <ul>
+      <li><a href="syslog-server/graylog.html"><strong>Setting Up a Graylog SYSLOG Server</strong></a> - Deploy a complete logging solution with Docker Compose</li>
+      <li>Docker Fundamentals</li>
+      <li>Docker Compose Deep Dive</li>
+      <li>Container Orchestration with Kubernetes</li>
+      <li>Docker Security Best Practices</li>
+    </ul>
+  </div>
 
-- [**Setting Up a Graylog SYSLOG Server**](syslog-server/graylog.md) - Deploy a complete logging solution with Docker Compose
-- Docker Fundamentals
-- Docker Compose Deep Dive
-- Container Orchestration with Kubernetes
-- Docker Security Best Practices
+  <div class="topic-card">
+    <h3>🔄 CI/CD Pipelines</h3>
+    <ul>
+      <li>Jenkins Pipeline Configuration</li>
+      <li>GitHub Actions Workflows</li>
+      <li>GitLab CI/CD Setup</li>
+      <li>Automated Testing Strategies</li>
+      <li>Continuous Deployment Models</li>
+    </ul>
+  </div>
 
-### 🔄 CI/CD Pipelines
+  <div class="topic-card">
+    <h3>☁️ Cloud Infrastructure</h3>
+    <ul>
+      <li>AWS Infrastructure as Code</li>
+      <li>Azure DevOps Services</li>
+      <li>Google Cloud Platform Essentials</li>
+      <li>Multi-Cloud Strategies</li>
+      <li>Cloud Cost Optimization</li>
+    </ul>
+  </div>
 
-- Jenkins Pipeline Configuration
-- GitHub Actions Workflows
-- GitLab CI/CD Setup
-- Automated Testing Strategies
-- Continuous Deployment Models
+  <div class="topic-card">
+    <h3>🔧 Infrastructure as Code</h3>
+    <ul>
+      <li>Terraform Best Practices</li>
+      <li>Ansible Playbooks</li>
+      <li>CloudFormation Templates</li>
+      <li>Pulumi Solutions</li>
+      <li>Managing Infrastructure Drift</li>
+    </ul>
+  </div>
 
-### ☁️ Cloud Infrastructure
+  <div class="topic-card">
+    <h3>📊 Monitoring & Observability</h3>
+    <ul>
+      <li>Prometheus & Grafana Setup</li>
+      <li>ELK Stack Deployment</li>
+      <li>Distributed Tracing with Jaeger</li>
+      <li>Synthetic Monitoring Solutions</li>
+      <li>Alert Management Strategies</li>
+    </ul>
+  </div>
 
-- AWS Infrastructure as Code
-- Azure DevOps Services
-- Google Cloud Platform Essentials
-- Multi-Cloud Strategies
-- Cloud Cost Optimization
+  <div class="topic-card">
+    <h3>🔒 Security & Compliance</h3>
+    <ul>
+      <li>DevSecOps Integration</li>
+      <li>Container Image Scanning</li>
+      <li>Secrets Management</li>
+      <li>Compliance as Code</li>
+      <li>Penetration Testing Automation</li>
+    </ul>
+  </div>
 
-### 🔧 Infrastructure as Code
-
-- Terraform Best Practices
-- Ansible Playbooks
-- CloudFormation Templates
-- Pulumi Solutions
-- Managing Infrastructure Drift
-
-### 📊 Monitoring & Observability
-
-- Prometheus & Grafana Setup
-- ELK Stack Deployment
-- Distributed Tracing with Jaeger
-- Synthetic Monitoring Solutions
-- Alert Management Strategies
-
-### 🔒 Security & Compliance
-
-- DevSecOps Integration
-- Container Image Scanning
-- Secrets Management
-- Compliance as Code
-- Penetration Testing Automation
-
-### 🚀 Performance Optimization
-
-- Application Performance Monitoring
-- Database Optimization Techniques
-- Network Performance Tuning
-- Resource Scaling Strategies
-- Load Testing Methodologies
+  <div class="topic-card">
+    <h3>🚀 Performance Optimization</h3>
+    <ul>
+      <li>Application Performance Monitoring</li>
+      <li>Database Optimization Techniques</li>
+      <li>Network Performance Tuning</li>
+      <li>Resource Scaling Strategies</li>
+      <li>Load Testing Methodologies</li>
+    </ul>
+  </div>
+</div>
 
 ## 🛠️ Getting Started
 
